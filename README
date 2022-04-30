@@ -1,0 +1,8 @@
+
+
+### Enviaroment variable
+
+Para utilizar este proyecto debes crear las variables de entorno:
+
+MONGODB_URI
+PORT
